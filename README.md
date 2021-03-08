@@ -13,5 +13,3 @@ I'm improving the UI
 * your time in hours for send `$myTime   = 10;`
 
 
-##other
-https://github.com/kristapsmors/bitcoinmixer
