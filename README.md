@@ -1,4 +1,8 @@
 #bitcoinmixerphp
+Mixer based on Bitmixer.io api
+Based from: https://github.com/kristapsmors/bitcoinmixer
+I'm improving the UI
+
 
 ## configuration
 * title of mixer `$TITLE    = 'Crypto Coins Mixer';`
@@ -8,3 +12,6 @@
 * customer time in hours for send `$customerTime = 8;`
 * your time in hours for send `$myTime   = 10;`
 
+
+##other
+https://github.com/kristapsmors/bitcoinmixer
